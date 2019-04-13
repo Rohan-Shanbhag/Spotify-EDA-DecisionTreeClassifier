@@ -4,5 +4,6 @@ Constructed a Spotify decision tree classifier model with minimum split value of
 
 <p float="left" align="center">
     <img src="dec_tree_01.png"/>
+    <img src="StatisticalAttributeModeling.png" />
 </p>
 
